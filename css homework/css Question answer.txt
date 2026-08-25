@@ -1,0 +1,39 @@
+         Answers
+                          Basic
+1.the four layers of css box model are content , padding , border , margin .
+2.property:display value:flex
+3.static
+4.grid container is the one who apply the grid property to the box or container.
+  and grid item is a child to it w/c can individually position columns and rows
+5.pixel . because it is not dependent in any thing .
+6.first of all keywords are very narrow than hex and RGB. 
+  the difference between hex and RGB is that
+  - hex uses # at the front, consists of six digites from 0-f , 00(red)00(green)00(blue) , and can be shorten as three degites.
+  - RGB is in (x,y,z) form , x for red y for green and z for blue ,and each from 1-255.
+  so in specificity RGB > hex > keywords
+7.Font-family
+8.The default is content-box in this case the width and height is for the 
+  content only, so whenyou add padding and margin it will be out side of the width and height.
+  unlike boarder-box , which add the padding and margin to the width and height. so it don't increas the total size of the element.
+9.rows
+10.relative to its container.
+                            intermediate
+11.justify-content: controls the alignment on the main axis. That is defined by the flex-direction.
+   align-items:controls the alignment on the cross axis perpendicular to the main axis.
+12.The fraction unit distribute the remaining space proportionally between the givens.
+  in the example given in the question: grid-template-columns: 1fr,2fr; it separates the remaining part to three and give 1fr 1/3 and 2fr 2/3 of the remaining space.so one of the remaining space and two of the remaining space.
+13.in static ther will be no change , unlike the relative which will make it dependent on it(it 
+  will be absolute relatively to the container or the parent).
+14.in em you are dependent on the parent , so it could be highly dynamic.
+ In rem you are dependent in the root , so it is more static(unchanged).
+15.a is the one who controles the opacity so it can make the color solid or transparent.
+16.to make space b/n lines so the reader don't skip or reread the lines.
+  to inherit constant calculation of spaces b/n lines , that means when you make px the new line calculate a new line-height relatively to the previous one
+17.using gap.
+18.is used to get the flexed items to go down as needed .
+  we use it for ex. when we list thinges in cardes and want it to be interactive.
+19.it is when the two margins combine together like one.what happen is that the browser takes the larger margin and apply it.
+  in block-level element the same thing happen.
+20.it actes like position:relative; until it reachessome point then turning to position:fixed;
+                                Advanced
+21.when the project you are making is in full browser screen.

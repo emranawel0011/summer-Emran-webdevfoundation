@@ -1,0 +1,19 @@
+ Answer of the assignment
+    1, text/html  utf-8
+    2, the charset ISO-8859-1, b/c it is more specific.
+    3, it is so important , b/c it indicates the version of HTML you are using.
+    4, html tag : is th indicator or the marker . like <h1>      
+    html element : it is the hole story form the opening html tag ,to the content , lastly to the closing tag.
+    5,Yes , forexample:- class <h1 class="first-header">header one</h1>
+    6, No and if you make that and go to w3c it will tell you that it's not valid.
+    7, to give it a semantic meaning so the browser can understand.
+    8, thier d/c is know mostly for unable people, when they use screen readers.
+    9, Again , to avoid semantic errors . b/c for style we should use css .
+    10, as we said it is usefull to screen readers, and additionally when the image can't reload you will see the text and have an idea about the image.
+    11, to maintain a good view of the website, I think.
+    12, b/c it could take so much time to load , then the rank in the browser will be less .
+    13, To give d/t formates like mp4 and others , I think .
+    14, i think the opening time will open some kinds of hole to our website .
+    15, it connect with the use of id , and its use in UX as i think is when anyone wants to write on that lable they are not suffering to touch the lable they canclick the text too.
+    16, obviouslly it will not be transferred.
+    17, for semmantic meaning.
